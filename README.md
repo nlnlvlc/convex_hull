@@ -1,4 +1,4 @@
-# Programming Assignment One: Convex Hull
+# PConvex Hull
 This project finds the minimum number of points needed to encampsulate all points in a set within a convex hull.
 The following programs due so using two algorithms: 
 1. A brute force algorithm to compare all points to each other and identify if there
